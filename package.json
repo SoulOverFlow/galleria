@@ -1,5 +1,5 @@
 {
-  "name": "galleria",
+  "name": "galleria.js",
   "version": "1.4.2",
   "description": "Responsive JavaScript Image Gallery",
   "main": "./src/galleria.js",
