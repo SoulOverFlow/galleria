@@ -1,0 +1,19 @@
+{
+  "name": "galleria",
+  "version": "1.4.2",
+  "description": "Responsive JavaScript Image Gallery",
+  "main": "./src/galleria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoulOverFlow/galleria.git"
+  },
+  "author": "David Hellsing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoulOverFlow/galleria/issues"
+  },
+  "homepage": "https://github.com/SoulOverFlow/galleria#readme"
+}
